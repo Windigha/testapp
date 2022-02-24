@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://gateway.pinata.cloud/ipfs/QmQAhJQTJuQgTviGJ13g86eciurFrvsaf48DwPu1NegdJn"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Windigha.crypto
         </a>
       </header>
     </div>
